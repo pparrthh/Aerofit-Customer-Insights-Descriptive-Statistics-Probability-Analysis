@@ -1,4 +1,4 @@
-# Aerofit Customer Insights: Descriptive Statistics & Probability Analysis
+# Aerofit Treadmill: Customer Analysis with Statistics & Probabilit
 
 ## Overview
 This repository contains an in-depth analysis of customer purchasing behavior for Aerofit's treadmill products. The project uses descriptive statistics and probability analysis to uncover key determinants influencing customer decisions across different demographics. The findings aim to refine Aerofit's marketing strategies and enhance product offerings.
